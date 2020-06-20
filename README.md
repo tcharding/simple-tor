@@ -7,16 +7,17 @@ Currently only initialises Tor, nothing else.
 
 ### TODO
 
-1. Act as a client: connect to a well known hidden service i.e., do a
-   HTTP request to an onion addressed web page.
+1. Act as a client:
+   - Connect to a well known hidden service i.e., do a HTTP request to
+   an onion addressed web page.
 
 2. Act as a server:
    - Expose a hidden service
-   - Start a simple webserver
+   - Start a simple web server
    - Test using Tor browser
 
 
 ref:
 
-Rust libtor: https://github.com/MagicalBitcoin/libtor
-C libtor: https://github.com/libtor/libtor
+- Rust libtor: https://github.com/MagicalBitcoin/libtor
+- C libtor: https://github.com/libtor/libtor
