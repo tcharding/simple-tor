@@ -19,5 +19,5 @@ Currently only initialises Tor, nothing else.
 
 ref:
 
-- Rust libtor: https://github.com/MagicalBitcoin/libtor
-- C libtor: https://github.com/libtor/libtor
+- Rust libtor: [github.com/MagicalBitcoin/libtor](https://github.com/MagicalBitcoin/libtor)
+- C libtor: [github.com/libtor/libtor](https://github.com/libtor/libtor)
