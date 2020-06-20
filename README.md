@@ -8,8 +8,7 @@ Currently only initialises Tor, nothing else.
 ### TODO
 
 1. Act as a client:
-   - Connect to a well known hidden service i.e., do a HTTP request to
-   an onion addressed web page.
+   - Connect to an onion service i.e., do a HTTP request.
 
 2. Act as a server:
    - Expose a hidden service
